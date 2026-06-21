@@ -1,0 +1,5 @@
+## Week of [date]
+**Planned:** [what you said you'd do]
+**Done:** [what actually happened]
+**Blocker:** [what got in the way, if anything]
+**Next:** [next week's commitment]
