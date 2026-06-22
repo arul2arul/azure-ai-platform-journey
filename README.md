@@ -3,7 +3,7 @@ Phase 1 — Audit & Fill Gaps (2 weeks: late June)
 Compressed — you've already shipped this in production.
 
 
-Map your existing agent work against AI-102 exam objectives (Microsoft Learn AI-102 study guide)
+Map your existing agent work against AI-103 exam objectives (Microsoft Learn AI-103 study guide)
 Identify real gaps only: likely candidates — Azure AI Content Safety, Translator/Speech services, Knowledge Mining specifics
 Build artifact: gap-analysis doc in GitHub repo
 
@@ -17,7 +17,7 @@ RAG patterns: grounding, citation, hallucination mitigation
 Build artifact: one RAG app on AI Foundry, properly evaluated (not just "it runs")
 
 
-Phase 3 — AI-102 Exam (Late July / Early August)
+Phase 3 — AI-103 Exam (Late July / Early August)
 
 
 Sit the exam while Phases 1–2 are fresh
